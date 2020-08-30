@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "python": "venv\\Scripts\\python.exe"
+    },
+    "python.testing.pytestArgs": [
+        "venv"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "git.ignoreLimitWarning": true
+}
