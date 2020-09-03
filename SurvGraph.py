@@ -1517,7 +1517,9 @@ class Ui_GrafWindow(object):
     # Salva o gráfico em alta qualidade
     def salvargrafico(self):
         filename = QtWidgets.QFileDialog.getSaveFileName(
-            None, "Salvar imagem do gráfico", "ImgSurvGraph", "*.eps;; *.pdf;; *.pgf;; *.png;; *.ps;; *.raw;; *.rgba;; *.svg;; *.svgz"
+            None, "Salvar imagem do gráfico", "ImgSurvGraph",
+            "*.eps;; *.pdf;; *.pgf;; *.png;; *.ps;; *.raw;; *.rgba;; \
+                *.svg;; *.svgz"
         )
         try:
             plt.savefig(filename[0], dpi=1000)
@@ -1652,7 +1654,7 @@ class Ui_GrafWindow(object):
         self.verticalLayout.addWidget(self.frame)
         GrafWindow.setCentralWidget(self.centralwidget)
 
-        ##########Funções###########
+        "#########Funções###########"
 
         self.comboBox_Grade.activated.connect(self.atualizarGrap)
         self.comboBox_Linha.activated.connect(self.atualizarGrap)
