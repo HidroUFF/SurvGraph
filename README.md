@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png" width="350" title="hover text">
-  <img src="https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png" width="350" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png" width="350" alt="Logo SurvGraph">
 </p>
 
 
@@ -51,5 +50,9 @@ O programa possui as seguintes funcionalidades:
 
     Profº Grabriel Nascimento
 
-![HidroUff Logo](https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png)
-![brasao](https://user-images.githubusercontent.com/69862177/92263566-37be5a80-eeb3-11ea-99ea-f2d342988fe0.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png" width="350" alt="Logo HidroUFF">
+  <img src="https://user-images.githubusercontent.com/69862177/92263566-37be5a80-eeb3-11ea-99ea-f2d342988fe0.png"
+  width="350" alt="Brasão UFF">
+</p>
+
