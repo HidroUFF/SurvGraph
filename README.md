@@ -1,4 +1,8 @@
-![Sem título-1](https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png" width="350" alt="accessibility text">
+</p>
+
 
 # SurvGraph
 O SurvGraph é uma aplicação desenvolvida para realizar edições em gráficos. 
@@ -11,7 +15,6 @@ O programa possui as seguintes funcionalidades:
 ### Instalação 
 
 * Baixe a aplicação com o seguinte comando:
-
     git clone https://github.com/HidroUFF/SurvGraph.git
 
 * Como o ambiente virtual acompanha o código, não é necessário instalar nenhuma biblioteca
@@ -27,7 +30,8 @@ O programa possui as seguintes funcionalidades:
 
 * O arquivo principal é o SurvGraph.py, então sempre inicie o programa por ele.
 
-* Para abrir e começar a editar um gráfico é necessário ter um arquivo .txt ou .csv com as coordenadas X e Y nessa ordem. \n (No arquivo .txt as coordenadas devem estar organizadas em colunas, sendo as colunas separadas por tabulação)
+* Para abrir e começar a editar um gráfico é necessário ter um arquivo .txt ou .csv com as coordenadas X e Y nessa ordem.
+  (No arquivo .txt as coordenadas devem estar organizadas em colunas, sendo as colunas separadas por tabulação)
 
 * Os arquivos que contem as coordenas do gráficos podem ter cabeçalho.
 
