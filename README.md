@@ -1,27 +1,51 @@
 ![Sem título-1](https://user-images.githubusercontent.com/69862177/92131158-0030af00-eddc-11ea-8bc1-c371b11861c9.png)
 
 # SurvGraph
+O SurvGraph é uma aplicação desenvolvida para realizar edições em gráficos. 
+O programa possui as seguintes funcionalidades:
+* Adicionar ou remover pontos nos gráficos através de interpolação (1º, 2º ou 3º);
+* Recortar os gráficos;
+* Remover ruidos dos gráficos. (Função útil para gráficos provenientes de atividades experimentais);
+* Relizar a tranformada rápida de fourier dos graficos. 
 
 ### Instalação 
 
 * Baixe a aplicação com o seguinte comando:
-'''
-git clone https://github.com/HidroUFF/SurvGraph.git
-'''
+
+    git clone https://github.com/HidroUFF/SurvGraph.git
+
 * Como o ambiente virtual acompanha o código, não é necessário instalar nenhuma biblioteca
 
 * Certifique-se que o seu compilador está aberto na pasta SurvGraph antes de iniciar o programa.
 
 ### Técnologia 
-    '''
+
     Python (vers. 3.8.3)
-    '''
+    Qt Designer
 
-### Executando programa
+### Orientação para a execução do SurvGraph
 
-* O arquivo principal é o SurvGraph.py, então sempre inicie o programa por ele
+* O arquivo principal é o SurvGraph.py, então sempre inicie o programa por ele.
+
+* Para abrir e começar a editar um gráfico é necessário ter um arquivo .txt ou .csv com as coordenadas X e Y nessa ordem. \n (No arquivo .txt as coordenadas devem estar organizadas em colunas, sendo as colunas separadas por tabulação)
+
+* Os arquivos que contem as coordenas do gráficos podem ter cabeçalho.
+
+* O programa entende números com separador decimal tanto usando a vírgula quanto usando o ponto.
+  (Ex. 1000,1 ou 1000.1)
+
+* Não usar separador de milhar nas coordenadas
+
+* O arquivo file_buttons.py são as imagens usadas no programa, recomendo não realizar alterações nele.
 
 ## Autor
 
     Rodrigo Neves
-e-mail: rodrigo_junior@id.uff.br
+    e-mail: rodrigo_junior@id.uff.br
+
+## Orientador
+
+    Profº Grabriel Nascimento
+
+![HidroUff Logo](https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png)
+![brasao](https://user-images.githubusercontent.com/69862177/92263566-37be5a80-eeb3-11ea-99ea-f2d342988fe0.png)
