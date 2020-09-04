@@ -9,7 +9,7 @@ O programa possui as seguintes funcionalidades:
 * Adicionar ou remover pontos nos gráficos através de interpolação (1º, 2º ou 3º);
 * Recortar os gráficos;
 * Remover ruidos dos gráficos. (Função útil para gráficos provenientes de atividades experimentais);
-* Relizar a tranformada rápida de fourier dos graficos. 
+* Realizar Transformada Rápida de Fourier (FFT) dos gráficos. 
 
 ### Instalação 
 
@@ -32,7 +32,7 @@ O programa possui as seguintes funcionalidades:
 * Para abrir e começar a editar um gráfico é necessário ter um arquivo .txt ou .csv com as coordenadas X e Y nessa ordem.
   (No arquivo .txt as coordenadas devem estar organizadas em colunas, sendo as colunas separadas por tabulação)
 
-* Os arquivos que contem as coordenas do gráficos podem ter cabeçalho.
+* Os arquivos que contem as coordenas dos gráficos podem ter cabeçalho.
 
 * O programa entende números com separador decimal tanto usando a vírgula quanto usando o ponto.
   (Ex. 1000,1 ou 1000.1)
@@ -48,7 +48,7 @@ O programa possui as seguintes funcionalidades:
 
 ## Orientador
 
-    Profº Grabriel Nascimento
+    Profº Gabriel Nascimento
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png" width="350" alt="Logo HidroUFF">
