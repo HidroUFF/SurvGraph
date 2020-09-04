@@ -20,7 +20,7 @@ O programa possui as seguintes funcionalidades:
 
 * Certifique-se que o seu compilador está aberto na pasta SurvGraph antes de iniciar o programa.
 
-### Técnologia 
+### Tecnologia
 
     Python (vers. 3.8.3)
     Qt Designer
