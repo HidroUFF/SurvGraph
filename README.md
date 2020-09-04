@@ -37,7 +37,7 @@ O programa possui as seguintes funcionalidades:
 * O programa entende números com separador decimal tanto usando a vírgula quanto usando o ponto.
   (Ex. 1000,1 ou 1000.1)
 
-* Não usar separador de milhar nas coordenadas
+* ***Não usar separador de milhar nas coordenadas***
 
 * O arquivo file_buttons.py são as imagens usadas no programa, recomendo não realizar alterações nele.
 
