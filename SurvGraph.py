@@ -1,4 +1,3 @@
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 from tempfile import gettempdir
 from scipy.interpolate import interp1d
