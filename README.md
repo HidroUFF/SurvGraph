@@ -11,7 +11,17 @@ O programa possui as seguintes funcionalidades:
 * Remover ruidos dos gráficos. (Função útil para gráficos provenientes de atividades experimentais);
 * Realizar Transformada Rápida de Fourier (FFT) dos gráficos. 
 
-### Instalação 
+### Tecnologia 
+
+    Python (vers. 3.8.3)
+    Qt Designer
+
+### Execução do SurvGraph
+
+* Basta baixar o SurvGraph.exe em seu computador e executa-lo. Não é necessário fazer qualquer instalação.
+   (O arquivo executável é compativel apenas com o sistema operacional Windows)
+
+### Instalaçõa e execução do SurvGraph (Via código)
 
 * Baixe a aplicação com o seguinte comando:
     git clone https://github.com/HidroUFF/SurvGraph.git
@@ -19,13 +29,6 @@ O programa possui as seguintes funcionalidades:
 * Como o ambiente virtual acompanha o código, não é necessário instalar nenhuma biblioteca
 
 * Certifique-se que o seu compilador está aberto na pasta SurvGraph antes de iniciar o programa.
-
-### Tecnologia 
-
-    Python (vers. 3.8.3)
-    Qt Designer
-
-### Orientação para a execução do SurvGraph
 
 * O arquivo principal é o SurvGraph.py, então sempre inicie o programa por ele.
 
