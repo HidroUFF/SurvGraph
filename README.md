@@ -19,6 +19,7 @@ O programa possui as seguintes funcionalidades:
 ### Execução do SurvGraph
 
 * Basta baixar o SurvGraph.exe em seu computador e executa-lo. Não é necessário fazer qualquer instalação.
+
    (O arquivo executável é compativel apenas com o sistema operacional Windows)
 
 ### Instalaçõa e execução do SurvGraph (Via código)
