@@ -22,7 +22,7 @@ O programa possui as seguintes funcionalidades:
 
    (O arquivo executável é compativel apenas com o sistema operacional Windows)
 
-### Instalaçõa e execução do SurvGraph (Via código)
+### Instalação e execução do SurvGraph (Via código)
 
 * Baixe a aplicação com o seguinte comando:
     git clone https://github.com/HidroUFF/SurvGraph.git
