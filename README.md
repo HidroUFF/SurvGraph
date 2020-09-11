@@ -57,7 +57,7 @@ O programa possui as seguintes funcionalidades:
 ## Citando o SurvGraph
 
   Se o SurvGraph contribuiu para algum projeto ou pesquisa que levo a publicação, por favor cite-o.
-    https://zenodo.org/badge/291381958.svg
+    <a href="https://zenodo.org/badge/latestdoi/291381958"> <img src = "https://zenodo.org/badge/291381958.svg" alt = "DOI"> </a>
 
 
 <p align="center">
