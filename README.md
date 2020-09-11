@@ -57,6 +57,8 @@ O programa possui as seguintes funcionalidades:
 ## Citando o SurvGraph
 
   Se o SurvGraph contribuiu para algum projeto ou pesquisa que levo a publicação, por favor cite-o.
+    https://zenodo.org/badge/latestdoi/291381958
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png" width="350" alt="Logo HidroUFF">
