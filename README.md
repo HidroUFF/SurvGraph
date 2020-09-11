@@ -45,7 +45,7 @@ O programa possui as seguintes funcionalidades:
 
 * O arquivo file_buttons.py são as imagens usadas no programa, recomendo não realizar alterações nele.
 
-## Autor
+## Autor e Contato
 
     Rodrigo Neves
     e-mail: rodrigo_junior@id.uff.br
@@ -53,6 +53,10 @@ O programa possui as seguintes funcionalidades:
 ## Orientador
 
     Profº Gabriel Nascimento
+
+## Citando o SurvGraph
+
+  Se o SurvGraph contribuio para algum projeto ou pesquisa que levo a publicação, por favor cite-o.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png" width="350" alt="Logo HidroUFF">
