@@ -62,7 +62,7 @@ O programa possui as seguintes funcionalidades:
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69862177/92263515-21180380-eeb3-11ea-9c9f-d1509b75c6dc.png" width="350" alt="Logo HidroUFF">
+  <img src="https://user-images.githubusercontent.com/69862177/92960664-6654ac00-f444-11ea-9d4d-482390b86086.png" width="350" alt="Logo HidroUFF">
   <img src="https://user-images.githubusercontent.com/69862177/92263566-37be5a80-eeb3-11ea-99ea-f2d342988fe0.png"
   width="350" alt="Brasão UFF">
 </p>
