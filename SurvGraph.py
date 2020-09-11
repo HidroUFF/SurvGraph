@@ -1187,9 +1187,9 @@ class Ui_MainWindow(object):
 class Ui_SobreWindow(object):
     def setupUi(self, SobreWindow):
         SobreWindow.setObjectName("SobreWindow")
-        SobreWindow.resize(400, 384)
+        SobreWindow.resize(377, 435)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("Buttons/ico.ico"),
+        icon.addPixmap(QtGui.QPixmap(":/Buttons/Buttons/ico.ico"),
                        QtGui.QIcon.Normal, QtGui.QIcon.Off)
         SobreWindow.setWindowIcon(icon)
         SobreWindow.setStyleSheet("")
@@ -1249,7 +1249,7 @@ class Ui_SobreWindow(object):
         self.label_logo_3.setScaledContents(True)
         self.label_logo_3.setObjectName("label_logo_3")
         self.label = QtWidgets.QLabel(self.frame)
-        self.label.setGeometry(QtCore.QRect(0, 110, 401, 111))
+        self.label.setGeometry(QtCore.QRect(0, 80, 401, 141))
         font = QtGui.QFont()
         font.setFamily("Poor Richard")
         font.setPointSize(10)
@@ -1270,6 +1270,22 @@ class Ui_SobreWindow(object):
         font.setWeight(75)
         self.label_3.setFont(font)
         self.label_3.setObjectName("label_3")
+        self.label_4 = QtWidgets.QLabel(self.frame)
+        self.label_4.setGeometry(QtCore.QRect(30, 390, 81, 31))
+        font = QtGui.QFont()
+        font.setFamily("Calibri")
+        font.setBold(False)
+        font.setWeight(50)
+        self.label_4.setFont(font)
+        self.label_4.setObjectName("label_4")
+        self.label_5 = QtWidgets.QLabel(self.frame)
+        self.label_5.setGeometry(QtCore.QRect(130, 390, 221, 31))
+        font = QtGui.QFont()
+        font.setFamily("Calibri")
+        font.setBold(False)
+        font.setWeight(50)
+        self.label_5.setFont(font)
+        self.label_5.setObjectName("label_5")
         self.horizontalLayout.addWidget(self.frame)
         SobreWindow.setCentralWidget(self.centralwidget)
 
@@ -1280,11 +1296,15 @@ class Ui_SobreWindow(object):
         _translate = QtCore.QCoreApplication.translate
         SobreWindow.setWindowTitle(_translate(
             "SobreWindow", "Sobre - SurvGraph"))
-        self.label.setText(_translate("SobreWindow", "<html><head/><body><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Desenvolvedor:</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Rodrigo Junior dos Santos Neves</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Orientador:</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Profº Gabriel Nascimento</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\"><br/></span></p></body></html>"))
+        self.label.setText(_translate("SobreWindow", "<html><head/><body><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Desenvolvedor:</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Rodrigo Junior dos Santos Neves</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">e-mail: rodrigo_junior@id.uff.br</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Orientador:</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\">Profº Gabriel Nascimento</span></p><p align=\"center\"><span style=\" font-weight:600; color:#ffffff;\"><br/></span></p></body></html>"))
         self.label_2.setText(_translate(
             "SobreWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; color:#ffffff;\">V 1.6</span></p></body></html>"))
         self.label_3.setText(_translate(
-            "SobreWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; font-weight:600; color:#ffffff;\">Última revisão: 19/08/2020</span></p></body></html>"))
+            "SobreWindow", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; color:#ffffff;\">Última revisão:  10/09/2020</span></p></body></html>"))
+        self.label_4.setText(_translate(
+            "SobreWindow", "<html><head/><body><p><span style=\" font-size:11pt; font-weight:600; color:#ffffff;\">© Copyright</span></p></body></html>"))
+        self.label_5.setText(_translate(
+            "SobreWindow", "<html><head/><body><p><span style=\" font-size:11pt; font-weight:600; color:#ffffff;\">Número de DOI:</span></p></body></html>"))
 
 
 class Ui_ExportWindow(object):
