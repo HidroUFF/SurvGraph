@@ -1,0 +1,19 @@
+Os arquivos do SurvGraph são licenciados pela AGPL-3.0-ou-posterior,
+cujo texto pode ser encontrado em LICENSE, ou em qualquer versão do AGPL-3.0 ou posterior,
+
+Licenciamento dos componentes:
+* PyQt5: GPL v3
+* tempfile: APACHE LICENSE v2.0
+* scipy: BSD 3-Clause
+* numpy: BSD 3-Clause
+* pyqtgraph: MIT LICENSE
+* matplotlib: BSD
+* os (Python 3.8.3): PSF / BSD
+* Qt Designer: GPL v1.3
+* Pyuic5: MIT LICENSE
+* pyinstaller: GPL v2
+
+Todas as bibliotecas aqui citadas mantêm seus diretos autorais originais
+e avisos de licença: consulte cada arquivos individualmente.
+
+As informações para atribuição do SurvGraph estão contidas no arquivo README.md
